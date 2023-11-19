@@ -3,9 +3,9 @@ Version=1.9.11
 
 [GENERAL_INFO]
 CompanyName=BrickMoon Interplanetary Enterprises
-ProductName=Poster Cairo Widget
+ProductName=Mercury Cairo Widget
 ProductVersion=1.0.0
-ProductDescription=A FOSS Poster Widget for Windows
+ProductDescription=A FOSS Mercury Widget for Windows
 ProductURL=lightquick.co.uk
 CopyrightNotice=Copyright (c) 2023
 
@@ -55,7 +55,7 @@ StartDialog=Yes
 FinishDialog=Yes
 
 [SPLASH_WINDOW]
-Bitmap_Pathname=E:\vb6\Poster-VB6\Resources\images\Splash.bmp
+Bitmap_Pathname=E:\vb6\Mercury-VB6\Resources\images\Splash.bmp
 Bitmap_Duration=2
 
 [SETUP_WINDOW]
@@ -95,7 +95,7 @@ Show_ViewReadme_Checked=Yes
 Show_RunApplication_CheckBox=Yes
 Show_RunApplication_Checked=Yes
 Readme_Pathname=
-Application_Pathname=%AppDir%\Poster.exe
+Application_Pathname=%AppDir%\Mercury.exe
 
 [EXTERNAL_TOOLS]
 RunBeforeInstall=No
@@ -108,9 +108,9 @@ BeforeUninstall=,,,1,2,1,
 [INI_FILES]
 
 [CREATE_SETUP]
-OutputFolder=E:\vb6\Poster-VB6 ver. 1.0.0
+OutputFolder=E:\vb6\Mercury-VB6 ver. 1.0.0
 SetupFilename=Setup.exe
-SetupIconPathname=E:\vb6\Poster-VB6\Resources\images\32x32x16.ico
+SetupIconPathname=E:\vb6\Mercury-VB6\Resources\images\32x32x16.ico
 CreateSelfExtractedSetup=Yes
 CreatePasswordProtectedSetup=No
 Password=
@@ -131,7 +131,7 @@ File=%AppDir%\help\Index.hhk,.\help\Index.hhk,17,0,128
 File=%AppDir%\help\Licence.jpg,.\help\Licence.jpg,17,0,128
 File=%AppDir%\help\menu01.png,.\help\menu01.png,17,0,128
 File=%AppDir%\help\menu02.png,.\help\menu02.png,17,0,128
-File=%AppDir%\help\poster.png,.\help\poster.png,17,0,128
+File=%AppDir%\help\Mercury.png,.\help\Mercury.png,17,0,128
 File=%AppDir%\help\prefs-about.png,.\help\prefs-about.png,17,0,128
 File=%AppDir%\help\prefs-config.png,.\help\prefs-config.png,17,0,128
 File=%AppDir%\help\prefs-development.png,.\help\prefs-development.png,17,0,128
@@ -228,7 +228,7 @@ File=%AppDir%\Resources\images\position-icon-light-600.jpg,.\Resources\images\po
 File=%AppDir%\Resources\images\position-icon-light-730.jpg,.\Resources\images\position-icon-light-730.jpg,17,0,128
 File=%AppDir%\Resources\images\position-icon-light-834.jpg,.\Resources\images\position-icon-light-834.jpg,17,0,128
 File=%AppDir%\Resources\images\position-icon-light-940.jpg,.\Resources\images\position-icon-light-940.jpg,17,0,128
-File=%AppDir%\Resources\images\poster.png,.\Resources\images\poster.png,17,0,128
+File=%AppDir%\Resources\images\Mercury.png,.\Resources\images\Mercury.png,17,0,128
 File=%AppDir%\Resources\images\readme.txt,.\Resources\images\readme.txt,17,0,128
 File=%AppDir%\Resources\images\sounds-icon-dark-1010.jpg,.\Resources\images\sounds-icon-dark-1010.jpg,17,0,128
 File=%AppDir%\Resources\images\sounds-icon-dark-600-clicked.jpg,.\Resources\images\sounds-icon-dark-600-clicked.jpg,17,0,128
@@ -274,7 +274,7 @@ File=%AppDir%\CCRSlider.ocx,.\CCRSlider.ocx,17,2,128
 File=%AppDir%\GPL LICENCE.TXT,.\GPL LICENCE.TXT,17,0,128
 File=%AppDir%\prefs.bat,.\prefs.bat,17,0,128
 File=%AppDir%\unhide.bat,.\unhide.bat,17,0,128
-File=%AppDir%\Poster.exe,.\Poster.exe,17,2,128
+File=%AppDir%\Mercury.exe,.\Mercury.exe,17,2,128
 
 [SHORTCUTS]
 
