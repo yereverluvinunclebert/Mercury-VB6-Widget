@@ -1,7 +1,7 @@
-# Poster-Widget-VB6
-The Steampunk Poster Desktop Widget, written in VB6 for Windows and ReactOS. Created for XP, Vista, Win7, 8, 10/11+, ReactOS as well as Linux or the Apple Mac's OS/X with Wine. This Poster Desktop Widget is an attractive and steamy VB6 widget for your desktop. This VB6 widget provides a simple moveable marble globe complete with rings
+# Mercury-Widget-VB6
+The Steampunk Mercury Desktop Widget, written in VB6 for Windows and ReactOS. Created for XP, Vista, Win7, 8, 10/11+, ReactOS as well as Linux or the Apple Mac's OS/X with Wine. This Mercury Desktop Widget is an attractive and steamy VB6 widget for your desktop. This VB6 widget provides a simple moveable marble globe complete with rings
 
-![poster](https://github.com/yereverluvinunclebert/Poster-VB6-Widget/assets/2788342/e248af44-effc-4145-ba04-1a9b7ad4301a)
+![Mercury](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/e248af44-effc-4145-ba04-1a9b7ad4301a)
 
 The others are the Uranus, Jupiter, Saturn and of course, 'God of War', the planet Mars. 
 Double-clicking on the planet will cause a personalised Windows application 
@@ -18,7 +18,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
 
 ![orrery-desktop](https://github.com/yereverluvinunclebert/Jupiter-Widget/assets/2788342/38dd8b6c-32ed-4a51-9704-61b2246a9fec)
  
- The Poster widget is an attractive dieselpunk VB6 widget for your desktop. Functional and gorgeous at the same time. The graphics are my own. It is all my code with some help from the chaps at VBForums (credits given). This Widget is a moveable widget that you can move anywhere around the desktop as you require.
+ The Mercury widget is an attractive dieselpunk VB6 widget for your desktop. Functional and gorgeous at the same time. The graphics are my own. It is all my code with some help from the chaps at VBForums (credits given). This Widget is a moveable widget that you can move anywhere around the desktop as you require.
 
  This widget can be increased in size, animation speed can be changed, 
  opacity/transparency may be set as to the users discretion. The widget can 
@@ -31,13 +31,13 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  windows. Mouse hover over the widget and press CTRL+mousewheel up/down to resize. It works well on Windows XP 
  to Windows 11.
 
- The Poster VB6 widget is Beta-grade software, under development, not yet 
+ The Mercury VB6 widget is Beta-grade software, under development, not yet 
  ready to use on a production system - use at your own risk.
 
  This version was developed on Windows 7 using 32 bit VisualBasic 6 as a FOSS 
  project creating a WoW64 widget for the desktop.
 
-![help](https://github.com/yereverluvinunclebert/Poster-VB6-Widget/assets/2788342/b73c459e-7781-43e1-9cbb-803560c90277)
+![help](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/b73c459e-7781-43e1-9cbb-803560c90277)
 
  It is open source to allow easy configuration, bug-fixing, enhancement and 
  community contribution towards free-and-useful VB6 utilities that can be created
@@ -46,7 +46,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  is new VB6 widgets with more functionality and then hopefully, conversion of 
  each to RADBasic/TwinBasic for future-proofing and 64bit-ness. 
 
-![theWholeShebang](https://github.com/yereverluvinunclebert/Poster-VB6-Widget/assets/2788342/325a7f7a-c97e-49e6-9c8d-15b1da8cc8f7)
+![theWholeShebang](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/325a7f7a-c97e-49e6-9c8d-15b1da8cc8f7)
 
  This utility is one of a set of steampunk and dieselpunk widgets. That you can 
  find here on Deviantart: https://www.deviantart.com/yereverluvinuncleber/gallery
@@ -92,7 +92,7 @@ If you are just a casual user of desktop programs then simply download the SETUP
 	Windows 10 Home 64bit on AMD    
 	Windows 11 64bit on Intel  
 
-![about](https://github.com/yereverluvinunclebert/Poster-VB6-Widget/assets/2788342/06433349-4cef-4ac3-a75b-205b8b4ac973)
+![about](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/06433349-4cef-4ac3-a75b-205b8b4ac973)
 
  CREDITS:
  
@@ -145,9 +145,9 @@ If you are just a casual user of desktop programs then simply download the SETUP
  referenced using modRC6regfree.bas which is compiled into the binary.	
  
  
- Requires a Poster folder in C:\Users\<user>\AppData\Roaming\ 
- eg: C:\Users\<user>\AppData\Roaming\Poster
- Requires a settings.ini file to exist in C:\Users\<user>\AppData\Roaming\Poster
+ Requires a Mercury folder in C:\Users\<user>\AppData\Roaming\ 
+ eg: C:\Users\<user>\AppData\Roaming\Mercury
+ Requires a settings.ini file to exist in C:\Users\<user>\AppData\Roaming\Mercury
  The above will be created automatically by the compiled program when run for the 
  first time.
  
@@ -158,7 +158,7 @@ If you are just a casual user of desktop programs then simply download the SETUP
  * CCRSlider.ocx
  
  This OCX will reside in the program folder. The program reference to this OCX is 
- contained within the supplied resource file Poster.RES. It is 
+ contained within the supplied resource file Mercury.RES. It is 
  compiled into the binary.
  
  * OLEGuids.tlb
@@ -182,7 +182,7 @@ If you are just a casual user of desktop programs then simply download the SETUP
  * SETUP.EXE - The program is currently distributed using setup2go, a very useful 
  and comprehensive installer program that builds a .exe installer. Youll have to 
  find a copy of setup2go on the web as it is now abandonware. Contact me
- directly for a copy. The file "install Poster 0.1.0.s2g" is the configuration 
+ directly for a copy. The file "install Mercury 0.1.0.s2g" is the configuration 
  file for setup2go. When you build it will report any errors in the build.
  
  * HELP.CHM - the program documentation is built using the NVU HTML editor and 
@@ -211,7 +211,7 @@ If you are just a casual user of desktop programs then simply download the SETUP
  With regard to the commercial use of incorporated images, permission and a 
  licence would need to be obtained from the original owner and creator, ie. me.
  
-![desktop](https://github.com/yereverluvinunclebert/Poster-VB6-Widget/assets/2788342/68003c0c-db0d-4d32-b5ac-d4978f4e2935)
+![desktop](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/68003c0c-db0d-4d32-b5ac-d4978f4e2935)
 
 
 
