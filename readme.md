@@ -1,7 +1,7 @@
 # Mercury-Widget-VB6
 The Steampunk Mercury Desktop Widget, written in VB6 for Windows and ReactOS. Created for XP, Vista, Win7, 8, 10/11+, ReactOS as well as Linux or the Apple Mac's OS/X with Wine. This Mercury Desktop Widget is an attractive and steamy VB6 widget for your desktop. This VB6 widget provides a simple moveable marble globe complete with rings
 
-![Mercury](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/e248af44-effc-4145-ba04-1a9b7ad4301a)
+![mercury](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/efc01e6f-4d96-4301-a332-35a169a09222)
 
 The others are the Uranus, Jupiter, Saturn and of course, 'God of War', the planet Mars. 
 Double-clicking on the planet will cause a personalised Windows application 
@@ -17,6 +17,8 @@ This is a simple RC/VB6 widget based upon one of my old Yahoo widgets, little mo
 Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in the guise of 100% compatible TwinBasic, coupled with support for transparent PNGs via Olaf Schmidt's RC/Cairo wrapper, VB6 code has an amazing future.
 
 ![orrery-desktop](https://github.com/yereverluvinunclebert/Jupiter-Widget/assets/2788342/38dd8b6c-32ed-4a51-9704-61b2246a9fec)
+
+![planets](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/4457401b-16d1-4722-b2e1-ddbc0d883a41)
  
  The Mercury widget is an attractive dieselpunk VB6 widget for your desktop. Functional and gorgeous at the same time. The graphics are my own. It is all my code with some help from the chaps at VBForums (credits given). This Widget is a moveable widget that you can move anywhere around the desktop as you require.
 
@@ -37,7 +39,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  This version was developed on Windows 7 using 32 bit VisualBasic 6 as a FOSS 
  project creating a WoW64 widget for the desktop.
 
-![help](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/b73c459e-7781-43e1-9cbb-803560c90277)
+![help](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/788d1e09-87a7-4483-bc20-d296fee68ff7)
 
  It is open source to allow easy configuration, bug-fixing, enhancement and 
  community contribution towards free-and-useful VB6 utilities that can be created
@@ -46,7 +48,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  is new VB6 widgets with more functionality and then hopefully, conversion of 
  each to RADBasic/TwinBasic for future-proofing and 64bit-ness. 
 
-![theWholeShebang](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/325a7f7a-c97e-49e6-9c8d-15b1da8cc8f7)
+![theWholeShebang](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/49e52cb5-f4a6-473d-9fc8-beafa8f3d865)
 
  This utility is one of a set of steampunk and dieselpunk widgets. That you can 
  find here on Deviantart: https://www.deviantart.com/yereverluvinuncleber/gallery
@@ -92,7 +94,7 @@ If you are just a casual user of desktop programs then simply download the SETUP
 	Windows 10 Home 64bit on AMD    
 	Windows 11 64bit on Intel  
 
-![about](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/06433349-4cef-4ac3-a75b-205b8b4ac973)
+![about](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/977caad0-45e1-44e1-96d6-1485c43dabd1)
 
  CREDITS:
  
@@ -211,7 +213,8 @@ If you are just a casual user of desktop programs then simply download the SETUP
  With regard to the commercial use of incorporated images, permission and a 
  licence would need to be obtained from the original owner and creator, ie. me.
  
-![desktop](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/68003c0c-db0d-4d32-b5ac-d4978f4e2935)
+![desktop](https://github.com/yereverluvinunclebert/Mercury-VB6-Widget/assets/2788342/f0a0ac90-1aaf-4166-88a1-dcc820e090cd)
+
 
 
 
