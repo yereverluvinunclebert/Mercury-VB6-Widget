@@ -330,7 +330,11 @@ Public gblPlHidingTime  As String
 Public gblPlIgnoreMouse  As String
 Public gblPlFirstTimeRun  As String
 
-' General storage variables declared
+' general storage variables declared
+
+Public gblTrinketsDir      As String
+Public gblTrinketsFile      As String
+
 Public gblPlSettingsDir As String
 Public gblPlSettingsFile As String
 Public gblPlMaximiseFormX As String
